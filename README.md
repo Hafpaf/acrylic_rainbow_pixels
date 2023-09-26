@@ -1,15 +1,15 @@
 # Acrylic Rainbow Pixels
 
 ## What is this?
-The Acrylic Rainbow Pixels project stem from an art project at the Hacker Camp [BornHack 2023](bornhack.dk/), in Denmark, where we laser cut 150 x 150 mm acrylic plates applied with dichroic film, to create the crab character from the arcade game Space Invaders (1978)
+The Acrylic Rainbow Pixels project stem from an art project at the Hacker Camp [BornHack 2023](https://bornhack.dk/), in Denmark, where we laser cut 150 x 150 mm acrylic plates applied with dichroic film, to create the crab character from the arcade game Space Invaders (1978).
 
-Given that this project is just a bunch of pixels, we have the flexibility to repurpose them for creating new pixel art at future events, with the main cost being the initial creation of the pixels. The pixels are easily transportable and require minimal storage and transportation space, although their weight relative to their size can be substantial.
+Given that this project is just a bunch of pixels, we have the flexibility to repurpose them for creating new pixel art at future events, with the main cost being the initial creation of the pixels. The pixels are easily transportable and require minimal storage and transportation space, although they weight a quite a bit relative to their size.
 
 ![Day Space Invader at BornHack 2023 with 150x150mm pixels](./assets/images/day_space_invader.jpg "Day Space Invader at BornHack 2023 with 150x150mm pixels")
 Day Space Invader at BornHack 2023 by Bart and Hafnium. Photo by [@Guru_san@mastodon.social](https://chaos.social/@Guru_san@mastodon.social/110842490808345178)
 
 ## Laser Files
-You can find laser cut files in DXF and [LightBurn](https://lightburnsoftware.com/) format in the [laser_files directory](./assets). The image below shows 150x150mm and 50x50 pixels in LightBurn for a 400x600mm (and 900x1300mm) laser cutter.
+You can find laser cut files in AutoCad DXF and [LightBurn](https://lightburnsoftware.com/) (.lbrn2) format in the [assets directory](./assets). The image below shows 150x150mm and 50x50 pixels in LightBurn for a 400x600mm (and 900x1300mm) laser cutter.
 
 ![150x150mm pixels in LightBurn for a 400x600mm laser cutter ](./assets/images/150x150mm_pixels.png "150x150mm pixels in LightBurn for a 400x600mm laser cutter")
 
@@ -47,9 +47,12 @@ You can find laser cut files in DXF and [LightBurn](https://lightburnsoftware.co
 - Squeegee
 	- [Bauhaus Denmark](https://www.bauhaus.dk/eskimo-gummispartel-200-mm)
 
-In case your laser cutter is not adjusted correctly and/or you cut with to little power, you will have issues getting the holes out. You will need a small pointed chisel, a belt hole puncher or similar
-- Bauhaus Denmark: [Spidsmejsel](https://www.bauhaus.dk/wisent-spidsmejsel-vanadium-krom-250mm) (pointed chisel)
-- Bauhaus Denmark: [Hultang](https://www.bauhaus.dk/rapid-rp03-hultang-til-laeder-tekstil-og-plastik) (belt hole puncher)
+In case your laser cutter is not adjusted correctly and/or you cut with to little power, you will have issues getting the holes out. You will need a small pointed chisel, a belt hole puncher or similar, to increase the world's entropy.
+
+- Pointed chisel
+  - Bauhaus Denmark: [Spidsmejsel](https://www.bauhaus.dk/wisent-spidsmejsel-vanadium-krom-250mm)
+- Belt hole puncher
+  - Bauhaus Denmark: [Hultang](https://www.bauhaus.dk/rapid-rp03-hultang-til-laeder-tekstil-og-plastik) 
 
 ## Assembly Instructions
 
